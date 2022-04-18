@@ -1,0 +1,210 @@
+Start State:  [1, 6, 0, 2, 7, 3, 4, 8, 5]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: ['D', 'D', 'L', 'U', 'U', 'R', 'D', 'L', 'L', 'D', 'R', 'R', 'U', 'U', 'L', 'D', 'R', 'D']
+Nodes Expanded: 14865
+Time Spent:  4.751
+
+------------------------------------------
+Start State:  [4, 6, 2, 3, 0, 1, 5, 8, 7]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  53.474
+
+------------------------------------------
+Start State:  [8, 2, 1, 5, 7, 4, 3, 6, 0]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  56.201
+
+------------------------------------------
+Start State:  [8, 4, 0, 1, 5, 6, 3, 7, 2]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  56.492
+
+------------------------------------------
+Start State:  [5, 3, 0, 4, 7, 8, 1, 2, 6]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  56.663
+
+------------------------------------------
+Start State:  [0, 6, 8, 3, 1, 4, 2, 5, 7]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  55.983
+
+------------------------------------------
+Start State:  [4, 5, 3, 2, 0, 7, 1, 8, 6]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: ['R', 'D', 'L', 'U', 'U', 'L', 'D', 'D', 'R', 'U', 'U', 'L', 'D', 'R', 'D', 'R']
+Nodes Expanded: 10478
+Time Spent:  2.7
+
+------------------------------------------
+Start State:  [1, 2, 8, 3, 0, 7, 6, 4, 5]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  54.006
+
+------------------------------------------
+Start State:  [0, 3, 5, 6, 8, 4, 7, 1, 2]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  56.198
+
+------------------------------------------
+Start State:  [6, 8, 4, 3, 1, 7, 0, 2, 5]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  56.004
+
+------------------------------------------
+Start State:  [0, 2, 8, 5, 1, 4, 6, 3, 7]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  56.63
+
+------------------------------------------
+Start State:  [6, 1, 8, 2, 7, 3, 5, 4, 0]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  56.508
+
+------------------------------------------
+Start State:  [0, 4, 2, 3, 8, 5, 6, 7, 1]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  56.276
+
+------------------------------------------
+Start State:  [4, 2, 0, 3, 8, 5, 7, 1, 6]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: ['D', 'L', 'L', 'U', 'R', 'D', 'D', 'L', 'U', 'R', 'R', 'U', 'L', 'L', 'D', 'D', 'R', 'U', 'R', 'D']
+Nodes Expanded: 43102
+Time Spent:  40.314
+
+------------------------------------------
+Start State:  [0, 5, 4, 6, 7, 2, 8, 1, 3]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  56.328
+
+------------------------------------------
+Start State:  [3, 1, 4, 5, 7, 2, 6, 8, 0]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  57.171
+
+------------------------------------------
+Start State:  [6, 3, 7, 2, 1, 8, 0, 4, 5]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  55.48
+
+------------------------------------------
+Start State:  [4, 3, 0, 6, 2, 1, 8, 7, 5]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: ['D', 'L', 'U', 'R', 'D', 'L', 'L', 'D', 'R', 'U', 'L', 'U', 'R', 'R', 'D', 'D', 'L', 'U', 'R', 'D']
+Nodes Expanded: 40980
+Time Spent:  35.271
+
+------------------------------------------
+Start State:  [1, 5, 8, 2, 7, 4, 0, 3, 6]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: Time expired
+Nodes Expanded: 50000
+Time Spent:  55.604
+
+------------------------------------------
+Start State:  [1, 3, 0, 4, 5, 8, 7, 2, 6]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 0]
+BFS: ['D', 'L', 'D', 'R', 'U', 'U', 'L', 'D', 'D', 'R', 'U', 'L', 'D', 'R']
+Nodes Expanded: 2492
+Time Spent:  0.219
+
+-------------------------------------------
+Start State:  [1, 6, 2, 3, 5, 'A', 7, 4, 9, 'C', 0, 8, 'D', 'E', 'B', 'F']
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 0]
+BFS :  ['L', 'U', 'U', 'R', 'R', 'D', 'D', 'L', 'D', 'R']
+Nodes Expanded: 2371
+Time Spent:  0.362
+
+------------------------------------------
+Start State:  [0, 6, 3, 4, 2, 1, 7, 8, 5, 9, 'A', 'B', 'D', 'E', 'F', 'C']
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 0]
+BFS :  ['D', 'R', 'U', 'L', 'D', 'D', 'R', 'R', 'R', 'D']
+Nodes Expanded: 1086
+Time Spent:  0.142
+
+------------------------------------------
+Start State:  [0, 1, 2, 4, 5, 6, 3, 7, 9, 'B', 'C', 8, 'D', 'A', 'E', 'F']
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 0]
+BFS :  ['R', 'R', 'D', 'R', 'D', 'L', 'L', 'D', 'R', 'R']
+Nodes Expanded: 1826
+Time Spent:  0.203
+
+------------------------------------------
+Start State:  [5, 1, 2, 4, 6, 'A', 3, 8, 0, 9, 7, 'B', 'D', 'E', 'F', 'C']
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 0]
+BFS :  ['R', 'U', 'L', 'U', 'R', 'R', 'D', 'D', 'R', 'D']
+Nodes Expanded: 1871
+Time Spent:  0.175
+
+------------------------------------------
+Start State:  [1, 2, 3, 4, 5, 6, 7, 8, 'D', 9, 'C', 'F', 'E', 'B', 'A', 0]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 0]
+BFS :  ['U', 'L', 'D', 'L', 'L', 'U', 'R', 'R', 'D', 'R']
+Nodes Expanded: 1237
+Time Spent:  0.104
+
+------------------------------------------
+Start State:  [7, 1, 'A', 9, 2, 'C', 'E', 0, 3, 'D', 'B', 4, 6, 5, 8, 'F']
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 0]
+BFS :  Nodes Expanded Limit Exceeded
+Nodes Expanded: 50000
+Time Spent:  140.76
+
+------------------------------------------
+Start State:  [0, 2, 3, 4, 8, 6, 9, 7, 'D', 'F', 5, 'A', 1, 'E', 'B', 'C']
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 0]
+BFS :  Nodes Expanded Limit Exceeded
+Nodes Expanded: 50000
+Time Spent:  178.439
+
+------------------------------------------
+Start State:  [3, 9, 'A', 1, 'D', 0, 'E', 'C', 7, 'B', 'F', 8, 6, 4, 5, 2]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 0]
+BFS :  Nodes Expanded Limit Exceeded
+Nodes Expanded: 50000
+Time Spent:  167.464
+
+------------------------------------------
+Start State:  ['E', 'A', 'B', 4, 8, 0, 'F', 'C', 1, 9, 'D', 5, 6, 2, 3, 7]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 0]
+BFS :  Nodes Expanded Limit Exceeded
+Nodes Expanded: 50000
+Time Spent:  181.977
+
+------------------------------------------
+Start State:  [7, 'D', 'B', 1, 3, 'C', 5, 2, 'F', 4, 6, 'E', 8, 0, 'A', 9]
+Goal State:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 0]
+BFS :  Nodes Expanded Limit Exceeded
+Nodes Expanded: 50000
+Time Spent:  171.595
+
+------------------------------------------
